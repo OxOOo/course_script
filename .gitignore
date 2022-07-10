@@ -1,0 +1,11 @@
+auth
+fateadm_auth
+courses
+*.pyc
+*.jpg
+
+dama
+dama4
+damaTest
+
+.vscode
